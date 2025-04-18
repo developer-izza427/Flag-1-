@@ -1,0 +1,16 @@
+.ok{
+    height: 200px;
+    width: 400px;
+    border: solid black;
+}
+.a{
+    height: 100px;
+    width: 400px;
+    background-color: #ffffff;
+
+}
+.b{
+    height: 100px;
+    width: 400px;
+    background-color: #ed1c24;
+}
